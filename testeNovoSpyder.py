@@ -1,1 +1,3 @@
-print("teste de commit com spyder")
+print("novo ficheiro spyder")
+
+print("remoto")
